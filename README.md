@@ -14,6 +14,6 @@
   <br>
 <strong><li>Role - Frontend</li></strong>
   <br>
-<strong><li>Contact Me: <a href="aydinnouriweb@gmail.com">Email</a></li></strong>
+<strong><li>Contact Me: <a href="mailto:aydinnouriweb@gmail.com">Email</a></li></strong>
 </ul>
 
